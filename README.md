@@ -1,2 +1,3 @@
-# Project-6
+# Project-6 DATE: April 10, 2024
 Data Collection and Storage: SQL.
+This project explores taxi ride data in Chicago using the pandas library in Python. We analyze information on taxi rides, weather conditions, and drop-off locations to uncover insights into passenger preferences and the impact of external factors on ride frequency and duration. Leveraging pandas functionalities, we conduct exploratory data analysis and hypothesis testing to derive actionable insights for a hypothetical ride-sharing company operating in Chicago. Through this analysis, we aim to inform strategic decision-making and enhance service quality in the transportation industry.
